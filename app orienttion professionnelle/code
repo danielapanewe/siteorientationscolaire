@@ -1,0 +1,151 @@
+<div class="slidedev__container containers">
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img src="../images/development/caroussel2.png" alt="" />
+        </div>
+        <div class="slidedev__text">
+            <h2>Recherche et analyse</h2>
+            <p>
+                Pour s’assurer que la conception et le développement sont sur la
+                bonne voie, il est crucial de recueillir des informations sur le
+                projet et le client. Si les développeurs n’ont pas une idée
+                claire de ce pour quoi ils travaillent et des exigences, ils ne
+                seront pas en mesure de fournir la bonne solution.;
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img src="../images/development/caroussel2.png" alt="" />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+    <div class="slidedev__content fades">
+        <div class="slidedev__img">
+            <img
+                src="../images/development/systems-development-life-cycle copy.png"
+                alt=""
+            />
+        </div>
+        <div class="slidedev__text">
+            <h2>Le cycle de vie du développement des systèmes</h2>
+            <p>
+                Le cycle de vie du développement des systèmes (SDLC) est un
+                modèle conceptuel utilisé dans la gestion de projet qui décrit
+                les étapes d'un projet de développement de système
+                d'information, depuis l'étude de faisabilité initiale jusqu'à la
+                maintenance de l'application terminée.
+            </p>
+        </div>
+    </div>
+</div>
+<br />
+<div style="text-align: center">
+    <span class="dott" onclick="currentSlidde(1)"></span>
+    <span class="dott" onclick="currentSlidde(2)"></span>
+    <span class="dott" onclick="currentSlidde(3)"></span>
+    <span class="dott" onclick="currentSlidde(4)"></span>
+    <span class="dott" onclick="currentSlidde(5)"></span>
+    <span class="dott" onclick="currentSlidde(6)"></span>
+    <span class="dott" onclick="currentSlidde(7)"></span>
+    <span class="dott" onclick="currentSlidde(8)"></span>
+</div>

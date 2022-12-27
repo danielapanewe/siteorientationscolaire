@@ -1,0 +1,4 @@
+.image__entreprise {
+    background-image: linear-gradient(to bottom, #4242709a, #4242709a),
+        url(../img/imageentreprise.jpg);
+}
